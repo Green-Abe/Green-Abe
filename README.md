@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Green-Abe
-- 👀 I’m interested in Python...
-- 🌱 I’m currently learning django...
+## 👋 Hi, I’m *@Green-Abe*
+### 👀 I’m interested in **Python...**
+### 🌱 I’m currently learning **django...**
 .
 
 <!---
