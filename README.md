@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m *@Green-Abe*
 ### 👀 I’m interested in **Python...**
-### 🌱 I’m currently learning about**Data analys...**
+### 🌱 I’m currently learning about  **Data analys...**
 .
 
 <!---
